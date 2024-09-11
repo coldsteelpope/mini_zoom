@@ -1,5 +1,7 @@
 # MINI ZOOM
-WebRTC 사용 연습을 위해 진행한 줌(Zoom) 클론 코딩 프로젝트입니다. Mesh 방식으로 1:1 영상 통화가 아닌 1:N 영상 통화가 가능하도록 설계했습니다.
+WebRTC 사용 연습을 위해 진행한 줌(Zoom) 클론 코딩 프로젝트입니다. 
+
+Mesh 방식으로 1:1 영상 통화가 아닌 1:N 영상 통화가 가능하도록 설계했습니다.
 
 [예시 사이트](https://mini-zoom-front.onrender.com)
 
