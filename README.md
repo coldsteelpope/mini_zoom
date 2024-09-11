@@ -12,16 +12,16 @@ Mesh 방식으로 1:1 영상 통화가 아닌 1:N 영상 통화가 가능하도�
 
 ## 3. 기능
 ### 3.1. 영상 통화
-![영상통화](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/3e52d4a4-e85d-4d0a-b86f-4aa43ef8fda4)
+![firstGifPicture](https://github.com/user-attachments/assets/617b4e9c-8fee-4d67-aed6-9998f713b1b7)
 
 ### 3.2. 방 만들기
-![createRoom](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/a2a7c9be-5a0e-4e64-b788-0e6d94ac5d56)
+![CreateRoomPicture](https://github.com/user-attachments/assets/e965c1ae-b48e-4ca7-a5d6-9f4293af725d)
 
 ### 3.3. 홈 페이지 참여 (1대1)
-![visitRoom](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/778ed09d-0cd4-4cc7-b00d-771248068d60)
+![InvideRoom](https://github.com/user-attachments/assets/63c499c2-a7eb-4c53-87c2-5b3adf0c925b)
 
 ### 3.4. 홈 페이지 참여 (1:N)
-![visitRoomMany](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/2ae33e63-6e19-42ae-a4e9-a24e60542683)
+![InvideRoomManyPeople](https://github.com/user-attachments/assets/d2a94fbb-2b6f-4e62-b00f-a8bb4baff198)
 
 ### 3.5. 방 나가기
-![exitRoom](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/8e809a29-d431-466e-90a8-43b8f73c8063)
+![ExitRoom](https://github.com/user-attachments/assets/f3a81573-42d6-4d30-aba6-73ea2f768efd)
