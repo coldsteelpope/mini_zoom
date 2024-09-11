@@ -7,7 +7,9 @@ Mesh 방식으로 1:1 영상 통화가 아닌 1:N 영상 통화가 가능하도�
 👉[사이트 확인하기](https://mini-zoom-front.onrender.com)
 
 ## 2. 사용 기술
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white"> 
+
+
 ## 3. 기능
 ### 3.1. 영상 통화
 ![영상통화](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/3e52d4a4-e85d-4d0a-b86f-4aa43ef8fda4)
