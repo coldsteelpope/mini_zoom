@@ -1,10 +1,7 @@
-
 # MINI ZOOM
-WEBRTC 연습을 위해 진행한 클론 코딩 프로젝트입니다. 다른 클론 코딩 프로젝트와의 차이점은 Mesh 방식으로 1:N 영상 통화를 가능하게 만들었습니다.
+WebRTC 사용 연습을 위해 진행한 줌(Zoom) 클론 코딩 프로젝트입니다. Mesh 방식으로 1:1 영상 통화가 아닌 1:N 영상 통화가 가능하도록 설계했습니다.
 
 [예시 사이트](https://mini-zoom-front.onrender.com)
-
-[서버 코드 확인하기](https://github.com/coldsteelpope/mini_zoom_signaling_server)
 
 ## 1. 기능
 ### 1.1. 영상 통화
@@ -21,8 +18,3 @@ WEBRTC 연습을 위해 진행한 클론 코딩 프로젝트입니다. 다른 �
 
 ### 1.5. 방 나가기
 ![exitRoom](https://github.com/coldsteelpope/mini_zoom_frontend/assets/128117575/8e809a29-d431-466e-90a8-43b8f73c8063)
-
-
-## 2. 제작 동기
-
-## 3. 설계
